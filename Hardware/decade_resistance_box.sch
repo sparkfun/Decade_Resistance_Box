@@ -16072,6 +16072,7 @@ Arrows in tDocu denote pointer positions for 45-degree shaft, assuming a knob wi
 </symbols>
 <devicesets>
 <deviceset name="SWITCH_ROTARY_1X10" prefix="SW">
+<description>SWCH-12120</description>
 <gates>
 <gate name="G$1" symbol="ROTARY-SWITCH-1X10" x="5.08" y="0"/>
 </gates>
