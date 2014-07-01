@@ -16092,6 +16092,7 @@ Arrows in tDocu denote pointer positions for 45-degree shaft, assuming a knob wi
 </connects>
 <technologies>
 <technology name="">
+<attribute name="PROD_ID" value="SWCH-12120" constant="no"/>
 <attribute name="VALUE" value="1x10"/>
 </technology>
 </technologies>
@@ -16111,7 +16112,10 @@ Arrows in tDocu denote pointer positions for 45-degree shaft, assuming a knob wi
 <connect gate="G$1" pin="COMMON" pad="COMMON"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="SWCH-12120" constant="no"/>
+<attribute name="VALUE" value="1x10" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -16226,6 +16230,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </symbols>
 <devicesets>
 <deviceset name="100KOHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
+<description>RES-12184</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -16281,6 +16286,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </devices>
 </deviceset>
 <deviceset name="10KOHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
+<description>RES-12183</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -16336,6 +16342,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </devices>
 </deviceset>
 <deviceset name="1KOHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
+<description>RES-12182</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -16391,6 +16398,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </devices>
 </deviceset>
 <deviceset name="100OHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
+<description>RES-12181</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -16446,6 +16454,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </devices>
 </deviceset>
 <deviceset name="10OHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
+<description>RES-12180</description>
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
