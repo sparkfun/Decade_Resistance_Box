@@ -16225,21 +16225,20 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="100KOHM-1/4W-5%(PTH)" prefix="R" uservalue="yes">
-<description>RES-10686</description>
+<deviceset name="100KOHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="AXIAL-0.3">
+<device name="HORIZ" package="AXIAL-0.3">
 <connects>
 <connect gate="G$1" pin="1" pad="P$1"/>
 <connect gate="G$1" pin="2" pad="P$2"/>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10686" constant="no"/>
-<attribute name="VALUE" value="100k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12184"/>
+<attribute name="VALUE" value="100K" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16250,8 +16249,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10686" constant="no"/>
-<attribute name="VALUE" value="100k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12184"/>
+<attribute name="VALUE" value="100K" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16262,8 +16261,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10686" constant="no"/>
-<attribute name="VALUE" value="100k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12184"/>
+<attribute name="VALUE" value="100K" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16274,27 +16273,26 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10686" constant="no"/>
-<attribute name="VALUE" value="100k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12184"/>
+<attribute name="VALUE" value="100K" constant="no"/>
 </technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="10KOHM-1/4W5%(PTH)" prefix="R" uservalue="yes">
-<description>RES-09435</description>
+<deviceset name="10KOHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="AXIAL-0.3">
+<device name="HORIZ" package="AXIAL-0.3">
 <connects>
 <connect gate="G$1" pin="1" pad="P$1"/>
 <connect gate="G$1" pin="2" pad="P$2"/>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-9435" constant="no"/>
+<attribute name="PROD_ID" value="RES-12183" constant="no"/>
 <attribute name="VALUE" value="10k" constant="no"/>
 </technology>
 </technologies>
@@ -16306,7 +16304,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-9435" constant="no"/>
+<attribute name="PROD_ID" value="RES-12183" constant="no"/>
 <attribute name="VALUE" value="10k" constant="no"/>
 </technology>
 </technologies>
@@ -16318,7 +16316,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-9435" constant="no"/>
+<attribute name="PROD_ID" value="RES-12183" constant="no"/>
 <attribute name="VALUE" value="10k" constant="no"/>
 </technology>
 </technologies>
@@ -16330,15 +16328,14 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-9435" constant="no"/>
+<attribute name="PROD_ID" value="RES-12183" constant="no"/>
 <attribute name="VALUE" value="10k" constant="no"/>
 </technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="1KOHM1/4W5%(PTH)" prefix="R" uservalue="yes">
-<description>RES-08380</description>
+<deviceset name="1KOHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -16350,8 +16347,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08380" constant="no"/>
-<attribute name="VALE" value="1k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12182" constant="no"/>
+<attribute name="VALUE" value="1K" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16362,8 +16359,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08380" constant="no"/>
-<attribute name="VALUE" value="1k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12182" constant="no"/>
+<attribute name="VALUE" value="1K" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16374,8 +16371,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08380" constant="no"/>
-<attribute name="VALUE" value="1k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12182" constant="no"/>
+<attribute name="VALUE" value="1K" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16386,15 +16383,14 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08380" constant="no"/>
-<attribute name="VALUE" value="1k" constant="no"/>
+<attribute name="PROD_ID" value="RES-12182" constant="no"/>
+<attribute name="VALUE" value="1K" constant="no"/>
 </technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="100OHM1/4W5%(PTH)" prefix="R" uservalue="yes">
-<description>RES-08059</description>
+<deviceset name="100OHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -16406,7 +16402,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08059" constant="no"/>
+<attribute name="PROD_ID" value="RES-12181" constant="no"/>
 <attribute name="VALUE" value="100" constant="no"/>
 </technology>
 </technologies>
@@ -16418,7 +16414,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08059" constant="no"/>
+<attribute name="PROD_ID" value="RES-12181" constant="no"/>
 <attribute name="VALUE" value="100" constant="no"/>
 </technology>
 </technologies>
@@ -16430,7 +16426,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08059" constant="no"/>
+<attribute name="PROD_ID" value="RES-12181" constant="no"/>
 <attribute name="VALUE" value="100" constant="no"/>
 </technology>
 </technologies>
@@ -16442,15 +16438,14 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08059" constant="no"/>
+<attribute name="PROD_ID" value="RES-12181" constant="no"/>
 <attribute name="VALUE" value="100" constant="no"/>
 </technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="10OHM-1/4W-5%(PTH)" prefix="R" uservalue="yes">
-<description>RES-10698</description>
+<deviceset name="10OHM-1/4W-1%(PTH)" prefix="R" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
@@ -16462,8 +16457,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10698" constant="no"/>
-<attribute name="VALUE" value="10" constant="no"/>
+<attribute name="PROD_ID" value="RES-12180" constant="no"/>
+<attribute name="VALUE" value="10.0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16474,8 +16469,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10698" constant="no"/>
-<attribute name="VALUE" value="10" constant="no"/>
+<attribute name="PROD_ID" value="RES-12180" constant="no"/>
+<attribute name="VALUE" value="10.0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16486,8 +16481,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10698" constant="no"/>
-<attribute name="VALUE" value="10" constant="no"/>
+<attribute name="PROD_ID" value="RES-12180" constant="no"/>
+<attribute name="VALUE" value="10.0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16498,8 +16493,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-10698" constant="no"/>
-<attribute name="VALUE" value="10" constant="no"/>
+<attribute name="PROD_ID" value="RES-12180" constant="no"/>
+<attribute name="VALUE" value="10.0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -16580,51 +16575,51 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="SW3" library="Testing" deviceset="SWITCH_ROTARY_1X10" device="KIT" value="SWITCH_ROTARY_1X10KIT"/>
 <part name="SW4" library="Testing" deviceset="SWITCH_ROTARY_1X10" device="KIT" value="SWITCH_ROTARY_1X10KIT"/>
 <part name="SW5" library="Testing" deviceset="SWITCH_ROTARY_1X10" device="KIT" value="SWITCH_ROTARY_1X10KIT"/>
-<part name="R1" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R2" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R3" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R4" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R5" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R6" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R7" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R8" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R9" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-5%(PTH)" device="VERT-KIT" value="100k"/>
-<part name="R10" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R11" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R12" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R13" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R14" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R15" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R16" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R17" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R18" library="SparkFun-Resistors" deviceset="10KOHM-1/4W5%(PTH)" device="VERT-KIT" value="10k"/>
-<part name="R19" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R20" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R21" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R22" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R23" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R24" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R25" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R26" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R27" library="SparkFun-Resistors" deviceset="1KOHM1/4W5%(PTH)" device="VERT-KIT" value="1k"/>
-<part name="R28" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R29" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R30" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R31" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R32" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R33" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R34" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R35" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R36" library="SparkFun-Resistors" deviceset="100OHM1/4W5%(PTH)" device="VERT-KIT" value="100"/>
-<part name="R37" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R38" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R39" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R40" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R41" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R42" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R43" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R44" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
-<part name="R45" library="SparkFun-Resistors" deviceset="10OHM-1/4W-5%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R1" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R2" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R3" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R4" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R5" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R6" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R7" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R8" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R9" library="SparkFun-Resistors" deviceset="100KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="100k"/>
+<part name="R10" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R11" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R12" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R13" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R14" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R15" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R16" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R17" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R18" library="SparkFun-Resistors" deviceset="10KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="10k"/>
+<part name="R19" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R20" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R21" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R22" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R23" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R24" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R25" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R26" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R27" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-1%(PTH)" device="VERT-KIT" value="1k"/>
+<part name="R28" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R29" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R30" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R31" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R32" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R33" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R34" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R35" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R36" library="SparkFun-Resistors" deviceset="100OHM-1/4W-1%(PTH)" device="VERT-KIT" value="100"/>
+<part name="R37" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R38" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R39" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R40" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R41" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R42" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R43" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R44" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
+<part name="R45" library="SparkFun-Resistors" deviceset="10OHM-1/4W-1%(PTH)" device="VERT-KIT" value="10"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="L"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".2_INCH"/>
 <part name="LOGO3" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".5_INCH" value="SFE_LOGO_NAME_FLAME.5_INCH"/>
@@ -16689,7 +16684,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <instance part="R37" gate="G$1" x="152.4" y="88.9"/>
 <instance part="R38" gate="G$1" x="167.64" y="88.9"/>
 <instance part="R39" gate="G$1" x="182.88" y="88.9"/>
-<instance part="R40" gate="G$1" x="187.96" y="78.74" rot="R270"/>
+<instance part="R40" gate="G$1" x="187.96" y="78.74" rot="R90"/>
 <instance part="R41" gate="G$1" x="187.96" y="66.04" rot="R90"/>
 <instance part="R42" gate="G$1" x="187.96" y="50.8" rot="R90"/>
 <instance part="R43" gate="G$1" x="182.88" y="40.64"/>
@@ -17258,7 +17253,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <segment>
 <wire x1="187.96" y1="88.9" x2="187.96" y2="86.36" width="0.1524" layer="91"/>
 <pinref part="SW5" gate="G$1" pin="4"/>
-<wire x1="187.96" y1="86.36" x2="187.96" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="86.36" x2="187.96" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="73.66" x2="177.8" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="177.8" y1="73.66" x2="177.8" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="177.8" y1="86.36" x2="187.96" y2="86.36" width="0.1524" layer="91"/>
@@ -17269,7 +17264,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 </net>
 <net name="N$49" class="0">
 <segment>
-<wire x1="187.96" y1="83.82" x2="187.96" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="73.66" x2="187.96" y2="71.12" width="0.1524" layer="91"/>
 <pinref part="SW5" gate="G$1" pin="5"/>
 <wire x1="165.1" y1="68.58" x2="180.34" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="180.34" y1="68.58" x2="180.34" y2="71.12" width="0.1524" layer="91"/>
