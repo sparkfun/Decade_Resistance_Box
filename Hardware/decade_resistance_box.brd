@@ -36,8 +36,8 @@
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
@@ -52,7 +52,7 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
@@ -147,7 +147,7 @@
 <wire x1="101.6" y1="72.6079" x2="98.0079" y2="76.2" width="0.2032" layer="20" curve="90"/>
 <wire x1="98.0079" y1="76.2" x2="3.5921" y2="76.2" width="0.2032" layer="20"/>
 <wire x1="3.5921" y1="76.2" x2="0" y2="72.6079" width="0.2032" layer="20" curve="90"/>
-<text x="50.8" y="-24.13" size="1.778" layer="51" font="vector" ratio="15">Byron Jacquot</text>
+<text x="50.8" y="-33.02" size="1.778" layer="51" font="vector" ratio="15">Byron Jacquot</text>
 <wire x1="0" y1="26.67" x2="101.6" y2="26.67" width="0.254" layer="51"/>
 <wire x1="0" y1="60.96" x2="101.6" y2="60.96" width="0.254" layer="51"/>
 <wire x1="50.8" y1="76.2" x2="50.8" y2="0" width="0.254" layer="51"/>
@@ -185,31 +185,40 @@ Box
 <hole x="17.78" y="60.96" drill="3.81"/>
 <hole x="50.8" y="60.96" drill="3.81"/>
 <hole x="83.82" y="60.96" drill="3.81"/>
-<hole x="3.81" y="12.7" drill="3.81"/>
 <hole x="80.01" y="26.67" drill="3.81"/>
 <wire x1="0" y1="76.2" x2="0" y2="8.89" width="0.254" layer="51"/>
-<wire x1="0" y1="8.89" x2="0" y2="0" width="0.254" layer="51"/>
+<wire x1="0" y1="8.89" x2="0" y2="3.81" width="0.254" layer="51"/>
+<wire x1="0" y1="3.81" x2="0" y2="0" width="0.254" layer="51"/>
 <wire x1="101.6" y1="76.2" x2="101.6" y2="8.89" width="0.254" layer="51"/>
-<wire x1="101.6" y1="8.89" x2="101.6" y2="0" width="0.254" layer="51"/>
-<wire x1="0" y1="76.2" x2="101.6" y2="76.2" width="0.254" layer="51"/>
-<wire x1="0" y1="0" x2="41.275" y2="0" width="0.254" layer="51"/>
+<wire x1="101.6" y1="8.89" x2="101.6" y2="3.81" width="0.254" layer="51"/>
+<wire x1="101.6" y1="3.81" x2="101.6" y2="0" width="0.254" layer="51"/>
+<wire x1="0" y1="76.2" x2="3.81" y2="76.2" width="0.254" layer="51"/>
+<wire x1="3.81" y1="76.2" x2="101.6" y2="76.2" width="0.254" layer="51"/>
+<wire x1="0" y1="0" x2="3.81" y2="0" width="0.254" layer="51"/>
+<wire x1="3.81" y1="0" x2="41.275" y2="0" width="0.254" layer="51"/>
 <wire x1="41.275" y1="0" x2="60.325" y2="0" width="0.254" layer="51"/>
 <wire x1="60.325" y1="0" x2="101.6" y2="0" width="0.254" layer="51"/>
 <wire x1="0" y1="8.89" x2="101.6" y2="8.89" width="0.254" layer="51"/>
-<dimension x1="0" y1="0" x2="0" y2="8.89" x3="-3.81" y3="4.445" textsize="1.778" textratio="15" layer="51" unit="inch"/>
-<dimension x1="0" y1="0" x2="0" y2="26.67" x3="-7.62" y3="13.335" textsize="1.778" textratio="15" layer="51" unit="inch"/>
-<dimension x1="0" y1="0" x2="0" y2="60.96" x3="-11.43" y3="30.48" textsize="1.778" textratio="15" layer="51" unit="inch"/>
+<dimension x1="0" y1="0" x2="0" y2="8.89" x3="-7.62" y3="4.445" textsize="1.778" textratio="15" layer="51" unit="inch"/>
+<dimension x1="0" y1="0" x2="0" y2="26.67" x3="-11.43" y3="13.335" textsize="1.778" textratio="15" layer="51" unit="inch"/>
+<dimension x1="0" y1="0" x2="0" y2="60.96" x3="-15.24" y3="30.48" textsize="1.778" textratio="15" layer="51" unit="inch"/>
 <wire x1="60.325" y1="20.32" x2="60.325" y2="0" width="0.254" layer="51"/>
 <wire x1="41.275" y1="20.32" x2="41.275" y2="0" width="0.254" layer="51"/>
-<dimension x1="0" y1="0" x2="41.275" y2="0" x3="20.6375" y3="-8.89" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
-<dimension x1="41.275" y1="0" x2="60.325" y2="0" x3="50.8" y3="-8.89" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
-<dimension x1="0" y1="0" x2="21.59" y2="0" x3="10.795" y3="-3.81" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
-<dimension x1="0" y1="0" x2="80.01" y2="0" x3="40.005" y3="-13.97" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
+<dimension x1="0" y1="0" x2="41.275" y2="0" x3="20.6375" y3="-12.7" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
+<dimension x1="41.275" y1="0" x2="60.325" y2="0" x3="50.8" y3="-12.7" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
+<dimension x1="0" y1="0" x2="21.59" y2="0" x3="10.795" y3="-7.62" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
+<dimension x1="0" y1="0" x2="80.01" y2="0" x3="40.005" y3="-17.78" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
 <dimension x1="0" y1="76.2" x2="17.78" y2="76.2" x3="8.89" y3="80.01" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
 <dimension x1="0" y1="76.2" x2="50.8" y2="76.2" x3="25.4" y3="83.82" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
 <dimension x1="0" y1="76.2" x2="83.82" y2="76.2" x3="41.91" y3="87.63" textsize="1.778" textratio="15" layer="51" unit="inch" precision="3"/>
 <hole x="21.59" y="26.67" drill="3.81"/>
-<hole x="3.81" y="31.75" drill="3.81"/>
+<dimension x1="0" y1="0" x2="3.81" y2="0" x3="1.905" y3="-3.81" textsize="1.778" textratio="15" layer="51" unit="inch"/>
+<dimension x1="0" y1="0" x2="0" y2="3.81" x3="-3.81" y3="1.905" textsize="1.778" textratio="15" layer="51" unit="inch"/>
+<dimension x1="0" y1="0" x2="101.6" y2="0" x3="50.8" y3="-22.86" textsize="1.778" textratio="15" layer="51" unit="inch"/>
+<dimension x1="0" y1="0" x2="0" y2="76.2" x3="-19.05" y3="38.1" textsize="1.778" textratio="15" layer="51" unit="inch"/>
+<wire x1="0" y1="3.81" x2="101.6" y2="3.81" width="0.254" layer="51"/>
+<wire x1="3.81" y1="76.2" x2="3.81" y2="0" width="0.254" layer="51"/>
+<dimension x1="96.52" y1="73.533" x2="99.06" y2="71.247" x3="103.810190625" y3="79.079103125" textsize="1.778" textratio="15" layer="51" dtype="diameter" unit="inch" precision="3"/>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -2717,7 +2726,7 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="22.86" y="-24.13"/>
+<element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="24.13" y="-33.02"/>
 <element name="SW1" library="Testing" package="ROTARY_SWITCH_1X10_KIT" value="SWITCH_ROTARY_1X10KIT" x="17.78" y="60.96" rot="R270">
 <attribute name="PROD_ID" value="SWCH-12120" x="17.78" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" value="1x10" x="17.78" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
