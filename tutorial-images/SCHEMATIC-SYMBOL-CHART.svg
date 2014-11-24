@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="396px" height="612px" viewBox="0 0 396 612" enable-background="new 0 0 396 612" xml:space="preserve">
+<rect x="15.5" y="52.1" fill="none" width="340.2" height="17.9"/>
+<text transform="matrix(1 0 0 1 15.4995 60.7485)" fill="#E72D2F" font-family="'HelveticaNeueLTPro-LtEx'" font-size="12">Schematic Symbols Chart </text>
+<text transform="matrix(1 0 0 1 57.3643 101.8472)" enable-background="new    "><tspan x="0" y="0" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="7.6259">LED</tspan><tspan x="0" y="9.2" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="7.6259">(Light-Emitting Diode)</tspan></text>
+<polygon fill="#E72D2F" points="32.9,111 34.6,106.9 37,109.3 "/>
+<polygon fill="#E72D2F" points="33.4,115.6 35.1,111.5 37.5,113.9 "/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="47.2" y1="91.6" x2="47.2" y2="101.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="47.2" y1="122.3" x2="47.2" y2="112.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="52.3" y1="112.1" x2="47.2" y2="112.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="47.2" y1="112.1" x2="42.1" y2="112.1"/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="47.2,101.8 52.3,101.8 47.2,112.1 "/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="47.2,101.8 42.1,101.8 47.2,112.1 "/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="47.2" y1="101.8" x2="47.2" y2="112.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="39" y1="104.9" x2="33.4" y2="110.5"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="39.5" y1="109.5" x2="33.9" y2="115.1"/>
+<text transform="matrix(1 0 0 1 74.2241 168.0894)" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">Potentiometer</text>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="65" y1="167.2" x2="55.9" y2="167.2"/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="48,150.2 48,158.7 51.4,160 44.6,162.1 
+	51.4,164.3 44.6,166.4 51.4,168.5 44.6,170.6 51.4,172.8 44.6,174.9 48,175.7 48,184.3 "/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="56.5,167.4 56.5,155.3 48,155.3 "/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="56.5" y1="167.2" x2="51.7" y2="167.2"/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="53.1,166.4 51.4,167.2 53.1,168.1 "/>
+<text transform="matrix(1 0 0 1 59.0723 223.6465)" enable-background="new    "><tspan x="0" y="0" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">Resistor (330 ohm)</tspan><tspan x="0" y="7.6" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">(Orange-Orange-Brown)</tspan></text>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="50.6,206.6 50.6,215.1 54,216 
+	47.2,218.1 54,220.2 47.2,222.4 54,224.5 47.2,226.6 54,228.8 47.2,230.9 50.6,232.2 50.6,240.7 "/>
+<text transform="matrix(1 0 0 1 170.0991 102.1934)" enable-background="new    "><tspan x="0" y="0" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">GND</tspan><tspan x="0" y="7.6" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">(Ground)</tspan></text>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="158.1" y1="102.2" x2="158.1" y2="93.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="151.3" y1="102.2" x2="164.9" y2="102.2"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="153.8" y1="104.7" x2="162.3" y2="104.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="156.4" y1="107.3" x2="159.8" y2="107.3"/>
+<circle fill="none" stroke="#E72D2F" stroke-width="0.5" cx="159.1" cy="158.6" r="0.8"/>
+<circle fill="none" stroke="#E72D2F" stroke-width="0.5" cx="159.1" cy="164.1" r="0.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="159.1" y1="150.3" x2="159.1" y2="155.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="159.1" y1="172.4" x2="159.1" y2="166.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="159.1" y1="164.1" x2="156.4" y2="158.6"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="159.1" y1="158.6" x2="159.1" y2="155.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="159.1" y1="166.9" x2="159.1" y2="164.9"/>
+<text transform="matrix(1 0 0 1 166.145 162.2905)" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">Buttons</text>
+<text transform="matrix(1 0 0 1 167.8989 219.5293)" enable-background="new    "><tspan x="0" y="0" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">Photocell</tspan><tspan x="0" y="7.6" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="6.3585">(Light Sensitive Resistor)</tspan></text>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="157.9" y1="240.7" x2="157.9" y2="234.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="157.9" y1="205.2" x2="157.9" y2="211.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="163.8" y1="217" x2="163.8" y2="219.4"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="163.8" y1="219.4" x2="163.8" y2="228.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="152" y1="217" x2="152" y2="226.5"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="152" y1="226.5" x2="152" y2="228.8"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M152,228.8c0,3.3,2.6,5.9,5.9,5.9c3.3,0,5.9-2.6,5.9-5.9l0,0"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M163.8,217c0-3.3-2.6-5.9-5.9-5.9c-3.3,0-5.9,2.6-5.9,5.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="152" y1="226.5" x2="153.1" y2="226.5"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M153.1,226.5c0.7,0,1.2-0.5,1.2-1.2"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="154.3" y1="225.3" x2="154.3" y2="220"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M156.1,220c0-0.5-0.4-0.9-0.9-0.9c-0.5,0-0.9,0.4-0.9,0.9c0,0,0,0,0,0"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="156.1" y1="225.9" x2="156.1" y2="220"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M156.1,225.9c0,0.5,0.4,0.9,0.9,0.9c0.5,0,0.9-0.4,0.9-0.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="157.9" y1="225.9" x2="157.9" y2="220"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M159.6,220c0-0.5-0.4-0.9-0.9-0.9c-0.5,0-0.9,0.4-0.9,0.9l0,0"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="159.6" y1="225.9" x2="159.6" y2="220"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M159.6,225.9c0,0.5,0.4,0.9,0.9,0.9c0.5,0,0.9-0.4,0.9-0.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="161.4" y1="225.9" x2="161.4" y2="220.6"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" d="M162.6,219.4c-0.7,0-1.2,0.5-1.2,1.2"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="162.6" y1="219.4" x2="163.8" y2="219.4"/>
+<text transform="matrix(1 0 0 1 268.0264 103.313)" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="7">Soft Pot</text>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="282" y1="107.7" x2="287.7" y2="107.7"/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="293.3,96.4 293.3,102 295.6,102.6 
+	291.1,104 295.6,105.4 291.1,106.9 295.6,108.3 291.1,109.7 295.6,111.1 291.1,112.5 293.3,113.4 293.3,119.1 "/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="293.3" y1="115.7" x2="287.7" y2="115.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="287.7" y1="115.7" x2="287.7" y2="107.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="287.7" y1="107.7" x2="291.1" y2="107.7"/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="290,108.6 291.1,107.7 290,106.9 "/>
+<text transform="matrix(1 0 0 1 256.209 148.3076)" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="13.3384">Piezo Buzzer</text>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="280.5" y1="187.9" x2="280.5" y2="175.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="292.6" y1="187.9" x2="292.6" y2="175.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="274.4" y1="166.7" x2="280.5" y2="166.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="280.5" y1="166.7" x2="280.5" y2="163.6"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="280.5" y1="166.7" x2="280.5" y2="169.7"/>
+<rect x="283.5" y="160.6" fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" width="6.1" height="12.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="292.6" y1="163.6" x2="292.6" y2="166.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="292.6" y1="166.7" x2="298.7" y2="166.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="292.6" y1="166.7" x2="292.6" y2="169.7"/>
+<polygon fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="307.7,154.5 307.7,157.6 304.7,157.6 
+	268.3,157.6 265.3,157.6 265.3,154.5 "/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="268.3" y1="157.6" x2="304.7" y2="157.6"/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="268.3,157.6 268.3,175.7 304.7,175.7 
+	304.7,157.6 "/>
+<text transform="matrix(1 0 0 1 279.0713 227.6079)" enable-background="new    "><tspan x="0" y="0" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="8.2148">Transistor</tspan><tspan x="0" y="9.9" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="8.2148">(NPN)</tspan></text>
+<rect x="263.4" y="220.1" fill="#E72D2F" width="2.2" height="14.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="256.7" y1="227.6" x2="264.1" y2="227.6"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="271.6" y1="242.6" x2="271.6" y2="235.2"/>
+<polyline fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linejoin="round" points="265,223.4 271.6,220.1 271.6,212.7 "/>
+<polygon fill="none" stroke="#E72D2F" stroke-width="0.25" stroke-linecap="round" points="271.6,235.1 269.4,232.1 267.9,235.1 "/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="268.7" y1="233.6" x2="265" y2="231.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.254" stroke-linecap="round" x1="268.6" y1="234.7" x2="270.9" y2="234.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.254" stroke-linecap="round" x1="270.9" y1="234.7" x2="269.4" y2="232.8"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.254" stroke-linecap="round" x1="269.4" y1="232.8" x2="268.6" y2="234.3"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.254" stroke-linecap="round" x1="268.6" y1="234.3" x2="269.7" y2="234.3"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.254" stroke-linecap="round" x1="269.7" y1="234.3" x2="269.4" y2="233.6"/>
+<text transform="matrix(1 0 0 1 60.4072 287.1187)" enable-background="new    "><tspan x="0" y="0" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="8.2148">Diode</tspan><tspan x="0" y="9.9" fill="#E72D2F" font-family="'HelveticaNeueLTPro-Cn'" font-size="8.2148">(1N4148)</tspan></text>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="49.6" y1="298" x2="49.6" y2="290.5"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="49.6" y1="283.1" x2="49.6" y2="290.5"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="45.8" y1="286.8" x2="49.6" y2="286.8"/>
+<polygon fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" points="49.6,286.8 
+	45.8,294.3 53.3,294.3 "/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="49.6" y1="286.8" x2="53.3" y2="286.8"/>
+<text transform="matrix(1 0 0 1 151.3174 303.3462)" fill="#E72D2F" font-family="'HelveticaWorld-Regular'" font-size="5">SPDT Relay</text>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="146.3" y1="273.7" x2="151.3" y2="273.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="146.3" y1="292.9" x2="151.3" y2="292.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="180.1" y1="283.3" x2="175.3" y2="283.3"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="180.1" y1="273.7" x2="175.3" y2="273.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" x1="180.1" y1="292.9" x2="175.3" y2="292.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="268.9" x2="175.3" y2="273.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="273.7" x2="175.3" y2="283.3"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="283.3" x2="175.3" y2="292.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="292.9" x2="175.3" y2="297.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="297.7" x2="151.3" y2="297.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="151.3" y1="297.7" x2="151.3" y2="292.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="151.3" y1="292.9" x2="151.3" y2="273.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="151.3" y1="273.7" x2="151.3" y2="268.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="151.3" y1="268.9" x2="175.3" y2="268.9"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" d="M156.1,280c1.7-0.1,3-1.6,2.9-3.4
+	c-0.1-1.5-1.3-2.8-2.9-2.9"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" d="M156.1,277.1c-0.8-0.2-1.6,0.2-1.9,1
+	c-0.2,0.8,0.2,1.6,1,1.9c0.3,0.1,0.6,0.1,0.8,0"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" d="M156.1,284.8c2.1-0.6,3.4-2.8,2.8-4.9
+	c-0.4-1.3-1.4-2.4-2.8-2.8"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" d="M156.1,281.9c-0.8-0.2-1.6,0.2-1.9,1
+	c-0.2,0.8,0.2,1.6,1,1.9c0.3,0.1,0.6,0.1,0.8,0"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" d="M156.1,289.6c2.1-0.6,3.3-2.8,2.7-5
+	c-0.4-1.3-1.4-2.3-2.7-2.7"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" d="M156.1,286.7c-0.8-0.2-1.6,0.2-1.9,1
+	c-0.2,0.8,0.2,1.6,1,1.9c0.3,0.1,0.6,0.1,0.8,0"/>
+<path fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" d="M156.1,292.9c1.7-0.1,3-1.6,2.9-3.4
+	c-0.1-1.5-1.3-2.8-2.9-2.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="273.7" x2="165.7" y2="273.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="165.7" y1="273.7" x2="165.7" y2="278.5"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="292.9" x2="165.7" y2="292.9"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="165.7" y1="292.9" x2="165.7" y2="288.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="175.3" y1="283.3" x2="170.5" y2="283.3"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="170.5" y1="283.3" x2="167.2" y2="280"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="165.7" y1="278.5" x2="167.2" y2="277.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="165.7" y1="278.5" x2="164.3" y2="277.1"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="165.7" y1="288.1" x2="167.2" y2="289.6"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="165.7" y1="288.1" x2="164.3" y2="289.6"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="151.3" y1="273.7" x2="156.1" y2="273.7"/>
+<line fill="none" stroke="#E72D2F" stroke-width="0.5" stroke-linecap="round" x1="151.3" y1="292.9" x2="156.1" y2="292.9"/>
+</svg>
