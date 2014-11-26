@@ -10,12 +10,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="514.86096"
-   height="397"
+   width="533.46967"
+   height="396.9375"
    id="svg3266"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="wheatstone-diamond.svg">
+   sodipodi:docname="wheatstone-redrawn.svg">
   <defs
      id="defs3268">
     <linearGradient
@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36"
-     inkscape:cx="710.30543"
-     inkscape:cy="232.7755"
+     inkscape:zoom="1.0182338"
+     inkscape:cx="379.89377"
+     inkscape:cy="343.87675"
      inkscape:current-layer="layer1"
      id="namedview3270"
      showgrid="false"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,128 +69,128 @@
      transform="translate(-67.737934,-0.5625)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.90470231;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 261.4028,195.27536 237.28833,0"
+       d="m 261.4028,195.27536 236.0656,0"
        id="path4298"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <line
        style="fill:none;stroke:#000000;stroke-width:1.90470231;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        x1="143.06854"
        y1="184.09384"
        x2="143.06854"
        y2="138.70728"
-       id="line61" />
+       id="line61"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <line
        style="fill:none;stroke:#000000;stroke-width:1.7636131;stroke-linecap:round;stroke-opacity:1"
        x1="119.08341"
        y1="184.58307"
        x2="167.05365"
        y2="184.58307"
-       id="line63" />
+       id="line63"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <line
        style="fill:none;stroke:#000000;stroke-width:1.7636131;stroke-linecap:round;stroke-opacity:1"
        x1="127.90147"
        y1="193.40112"
        x2="157.88289"
        y2="193.40112"
-       id="line65" />
+       id="line65"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <line
        style="fill:none;stroke:#000000;stroke-width:1.7636131;stroke-linecap:round;stroke-opacity:1"
        x1="118.65041"
        y1="202.97269"
        x2="166.62067"
        y2="202.97269"
-       id="line63-1" />
+       id="line63-1"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <line
        style="fill:none;stroke:#000000;stroke-width:1.7636131;stroke-linecap:round;stroke-opacity:1"
        x1="127.46848"
        y1="211.79077"
        x2="157.44989"
        y2="211.79077"
-       id="line65-7" />
+       id="line65-7"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.90470231;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 143.19166,138.98436 -0.43304,-85.735582 237.72137,-1.73205 0,24.68145"
+       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 143.19166,138.98436 142.75862,53.248778 469.7161,51.516728"
        id="path4149"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.90470231;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 141.89258,212.16263 -3e-5,134.44898 238.3709,-0.21728 0,-31.90584"
+       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 141.89259,212.16263 -4e-5,134.44898 355.04997,-0.21728"
        id="path4149-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <polyline
+       transform="matrix(3.5272262,0,0,3.5272262,83.256408,-653.54149)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
+       points="50.6,206.6 50.6,215.1 54,216   47.2,218.1 54,220.2 47.2,222.4 54,224.5 47.2,226.6 54,228.8 47.2,230.9 50.6,232.2 50.6,240.7 "
+       id="polyline53" />
+    <polyline
+       transform="matrix(3.5272262,0,0,3.5272262,318.85451,-657.53345)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
+       points="50.6,206.6 50.6,215.1 54,216   47.2,218.1 54,220.2 47.2,222.4 54,224.5 47.2,226.6 54,228.8 47.2,230.9 50.6,232.2 50.6,240.7 "
+       id="polyline53-0" />
     <g
-       id="g4281"
-       transform="matrix(2.4941256,-2.4941256,2.4941256,2.4941256,-1617.7496,-187.74879)">
+       id="g4234"
+       transform="matrix(2.4941256,2.4941256,-2.4941256,2.4941256,824.18091,-1652.1402)">
+      <line
+         id="line37"
+         y2="500.75735"
+         x2="263.97342"
+         y1="507.19199"
+         x1="257.53876"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
       <polyline
-         id="polyline53"
-         points="50.6,206.6 50.6,215.1 54,216   47.2,218.1 54,220.2 47.2,222.4 54,224.5 47.2,226.6 54,228.8 47.2,230.9 50.6,232.2 50.6,240.7 "
+         id="polyline39"
+         points="48,150.2 48,158.7 51.4,160 44.6,162.1   51.4,164.3 44.6,166.4 51.4,168.5 44.6,170.6 51.4,172.8 44.6,174.9 48,175.7 48,184.3 "
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
-         transform="matrix(0,1,-1,0,547.63818,402.92113)" />
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,185.27245,343.00183)" />
       <polyline
-         id="polyline53-0"
-         points="50.6,206.6 50.6,215.1 54,216   47.2,218.1 54,220.2 47.2,222.4 54,224.5 47.2,226.6 54,228.8 47.2,230.9 50.6,232.2 50.6,240.7 "
+         id="polyline41"
+         points="56.5,167.4 56.5,155.3 48,155.3 "
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
-         transform="translate(297.05625,252.63474)" />
-      <g
-         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,459.41673,-63.055733)"
-         id="g4234">
-        <line
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-           x1="257.53876"
-           y1="507.19199"
-           x2="263.97342"
-           y2="500.75735"
-           id="line37" />
-        <polyline
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,185.27245,343.00183)"
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
-           points="48,150.2 48,158.7 51.4,160 44.6,162.1   51.4,164.3 44.6,166.4 51.4,168.5 44.6,170.6 51.4,172.8 44.6,174.9 48,175.7 48,184.3 "
-           id="polyline39" />
-        <polyline
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,185.27245,343.00183)"
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
-           points="56.5,167.4 56.5,155.3 48,155.3 "
-           id="polyline41" />
-        <line
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1"
-           x1="263.54916"
-           y1="501.18161"
-           x2="266.94327"
-           y2="497.78751"
-           id="line43" />
-        <polyline
-           transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,185.27245,343.00183)"
-           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
-           points="53.1,166.4 51.4,167.2 53.1,168.1 "
-           id="polyline45" />
-      </g>
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,185.27245,343.00183)" />
+      <line
+         id="line43"
+         y2="497.78751"
+         x2="266.94327"
+         y1="501.18161"
+         x1="263.54916"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
       <polyline
-         id="polyline53-4"
-         points="50.6,206.6 50.6,215.1 54,216   47.2,218.1 54,220.2 47.2,222.4 54,224.5 47.2,226.6 54,228.8 47.2,230.9 50.6,232.2 50.6,240.7 "
+         id="polyline45"
+         points="53.1,166.4 51.4,167.2 53.1,168.1 "
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
-         transform="matrix(0,1,-1,0,547.97812,450.74542)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4247"
-         d="m 299.86979,460.74654 0,-7.24828 7.11806,0"
-         style="fill:none;stroke:#000000;stroke-width:0.54000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4247-2"
-         d="m 340.41523,453.53289 7.24828,0 0,7.11806"
-         style="fill:none;stroke:#000000;stroke-width:0.54000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4247-4"
-         d="m 347.65977,492.16839 0,9.18178 -9.01923,0"
-         style="fill:none;stroke:#000000;stroke-width:0.54000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4247-5"
-         d="m 308.13427,501.34642 -8.23037,0 0,-7.11806"
-         style="fill:none;stroke:#000000;stroke-width:0.54000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,185.27245,343.00183)" />
     </g>
+    <polyline
+       transform="matrix(3.5272262,0,0,3.5272262,318.9266,-533.37345)"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-opacity:1"
+       points="50.6,206.6 50.6,215.1 54,216   47.2,218.1 54,220.2 47.2,222.4 54,224.5 47.2,226.6 54,228.8 47.2,230.9 50.6,232.2 50.6,240.7 "
+       id="polyline53-4" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.54000002;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -200,12 +200,18 @@
        sodipodi:rx="11.60097"
        sodipodi:ry="11.53959"
        d="m 301.99352,477.22482 c 0,6.37314 -5.19393,11.53959 -11.60097,11.53959 -6.40704,0 -11.60097,-5.16645 -11.60097,-11.53959 0,-6.37314 5.19393,-11.53959 11.60097,-11.53959 6.40704,0 11.60097,5.16645 11.60097,11.53959 z"
-       transform="matrix(3.5272263,0,0,3.5272263,-640.5527,-1485.8395)" />
+       transform="matrix(3.5272263,0,0,3.5272263,-640.5527,-1485.8395)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3007"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       transform="matrix(3.5272263,0,0,3.5272263,-603.19839,-1464.4067)"><flowRegion
+       transform="matrix(3.5272263,0,0,3.5272263,-603.19839,-1464.4067)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3009"><rect
            id="rect3011"
            width="17.013889"
@@ -216,7 +222,10 @@
        xml:space="preserve"
        id="flowRoot3007-1"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       transform="matrix(3.5272263,0,0,3.5272263,-325.62451,-1463.4169)"><flowRegion
+       transform="matrix(3.5272263,0,0,3.5272263,-325.62451,-1463.4169)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3009-7"><rect
            id="rect3011-4"
            width="8.5069447"
@@ -228,7 +237,10 @@
        xml:space="preserve"
        id="flowRoot3007-9"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       transform="matrix(3.5272263,0,0,3.5272263,-553.42454,-1551.5976)"><flowRegion
+       transform="matrix(3.5272263,0,0,3.5272263,-633.63287,-1535.6254)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3009-4"><rect
            id="rect3011-8"
            width="17.013889"
@@ -240,7 +252,10 @@
        xml:space="preserve"
        id="flowRoot3007-2"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       transform="matrix(3.5272263,0,0,3.5272263,-396.04656,-1550.9852)"><flowRegion
+       transform="matrix(3.5272263,0,0,3.5272263,-328.33823,-1536.0547)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3009-45"><rect
            id="rect3011-5"
            width="17.013889"
@@ -251,7 +266,10 @@
        xml:space="preserve"
        id="flowRoot3007-7"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       transform="matrix(3.5272263,0,0,3.5272263,-397.2713,-1375.8487)"><flowRegion
+       transform="matrix(3.5272263,0,0,3.5272263,-326.43797,-1396.6821)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3009-1"><rect
            id="rect3011-1"
            width="17.013889"
@@ -264,7 +282,10 @@
        xml:space="preserve"
        id="flowRoot3007-27"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       transform="matrix(3.5272263,0,0,3.5272263,-535.66594,-1362.3766)"><flowRegion
+       transform="matrix(3.5272263,0,0,3.5272263,-638.0965,-1374.1821)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3009-6"><rect
            id="rect3011-14"
            width="17.013889"
@@ -284,17 +305,26 @@
        sodipodi:end="5.7491146"
        style="fill:none;stroke:#000000;stroke-width:0.54000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:open="true"
-       transform="matrix(3.5272263,0,0,3.5272263,-666.27206,-1461.9572)" />
+       transform="matrix(3.5272263,0,0,3.5272263,-666.27206,-1461.9572)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.90470231;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 376.58671,201.16668 -7.80769,-33.52703 0,0"
        id="path3894"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3007-3"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       transform="matrix(3.5272263,0,0,3.5272263,-461.56969,-1435.8605)"><flowRegion
+       transform="matrix(3.5272263,0,0,3.5272263,-461.56969,-1435.8605)"
+       inkscape:export-filename="C:\Users\work\Documents\GitHub\Decade_Resistance_Box\tutorial-images\wheatstone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3009-2"><rect
            id="rect3011-2"
            width="17.013889"
@@ -302,5 +332,32 @@
            x="237.5"
            y="465.69446" /></flowRegion><flowPara
          id="flowPara3013-16"
-         style="font-size:6px">V</flowPara></flowRoot>  </g>
+         style="font-size:6px">V</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 497.33862,74.472222 0,-23.003473 -27.69097,0"
+       id="path3943"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 193.92361,77.902777 0,-25.868056"
+       id="path3945"
+       inkscape:connector-curvature="0"
+       transform="translate(67.737934,0.5625)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.80000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 261.48793,345.87549 0,-33.46924"
+       id="path3945-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 497.37639,347.14579 0,-31.98462"
+       id="path3945-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.79999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 497.32704,208.41139 0,-25.86805"
+       id="path3945-9"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
