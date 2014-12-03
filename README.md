@@ -1,47 +1,32 @@
 Part Name - IMA Part-123 Not a Part345 Breakout
 ========================================
 
-[![Part Name](URL for picture of part)
-*Part Name (SKU)*](URL for product on Sparkfun.com)
+[![Decade Resistance Box](https://cdn.sparkfun.com/assets/parts/9/9/6/0/13006-04.jpg)
+KIT-13006](https://www.sparkfun.com/products/13006)
 
-Basic description of the part [The datasheet can be found here.](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/IMU/PS-MPU-9150A.pdf)
+This repository is for a decade resistance box kit, adjustable between 0 &ohm; and 999,990 &ohm; in 10 &ohm; steps.  [More information can be found here.](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/IMU/PS-MPU-9150A.pdf)
 
-More information can be found on the Wiki for this repo. 
+Detailed information about building and using the decade resistance can be found it it's [hookup guide](https://learn.sparkfun.com/tutorials/decade-resistance-box-hookup-guide). 
 
-This part was created in Eagle vXXX, this firmware was created in Arduino vBlahBlahBlah, etc. 
-
-
+This part was created in Eagle v6.5.0.  The front panel etching/overlay was created with Inkscape 0.48.
 
 
 Repository Contents
 -------------------
 
-* **/Enclosure** - 3D model of an enclosure designed for this particular part
-* **/Firmware** - Any firmware that the part ships with, 
-* **/Fritzing** - Fritzing Example wiring images
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
-* **/Libraries** - All Arduino libraries and board examples
-* **/Production** - Test bed files and production panel files
-* **/Software** - Any desktop based software used to work with this project.
-* **[Wiki](URL for GitHub Wiki) - Wiki with examples or helpful information for product
+* **/case-label** - Multi-layer SVG of the front panel markings. 
 
 Product Versions
 ----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU] (retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
+* [KIT-13006](https://www.sparkfun.com/products/13006)- Initial version of the kit PCBs.
 
 Version History
 ---------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) description
+* [ab37315990e0f04e8026698d327f7af8112845c8](https://github.com/sparkfun/Decade_Resistance_Box/commit/ab37315990e0f04e8026698d327f7af8112845c8) V10 PCB files 
 
 License Information
 -------------------
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
-The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
 
 Distributed as-is; no warranty is given.
-
-->Any collaboration credit should appear here.<-
-

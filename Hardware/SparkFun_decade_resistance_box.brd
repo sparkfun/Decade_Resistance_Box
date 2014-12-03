@@ -8,7 +8,7 @@
 </settings>
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
@@ -24,11 +24,11 @@
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="yes"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="no" active="yes"/>
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
@@ -52,7 +52,7 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
@@ -219,6 +219,12 @@ Box
 <wire x1="0" y1="3.81" x2="101.6" y2="3.81" width="0.254" layer="51"/>
 <wire x1="3.81" y1="76.2" x2="3.81" y2="0" width="0.254" layer="51"/>
 <dimension x1="96.52" y1="73.533" x2="99.06" y2="71.247" x3="103.810190625" y3="79.079103125" textsize="1.778" textratio="15" layer="51" dtype="diameter" unit="inch" precision="3"/>
+<circle x="17.78" y="60.96" radius="4.191" width="0.254" layer="51"/>
+<circle x="50.8" y="60.96" radius="4.191" width="0.254" layer="51"/>
+<circle x="83.82" y="60.96" radius="4.191" width="0.254" layer="51"/>
+<circle x="80.01" y="26.67" radius="4.191" width="0.254" layer="51"/>
+<circle x="21.59" y="26.67" radius="4.191" width="0.254" layer="51"/>
+<dimension x1="78.208146875" y1="30.4538875" x2="81.811853125" y2="22.8861125" x3="106.67999375" y3="39.370009375" textsize="1.778" textratio="15" layer="51" dtype="diameter" unit="inch" precision="4"/>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
