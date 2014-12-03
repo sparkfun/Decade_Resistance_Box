@@ -4,7 +4,7 @@ Decade Resistance Box - KIT-13006
 [![Decade Resistance Box](https://cdn.sparkfun.com/assets/parts/9/9/6/0/13006-04.jpg) 
 KIT-13006](https://www.sparkfun.com/products/13006)
 
-This repository is for a decade resistance box kit, adjustable between 0 &ohm; and 999,990 &ohm; in 10 &ohm; steps.  [More information can be found here.](https://www.sparkfun.com/products/13006)
+This repository is for a decade resistance box kit, adjustable between 0 Ohms and 999,990 Ohms in 10 Ohm steps.  [More information can be found here.](https://www.sparkfun.com/products/13006)
 
 Detailed information about building and using the decade resistance can be found it it's [hookup guide](https://learn.sparkfun.com/tutorials/decade-resistance-box-hookup-guide). 
 
