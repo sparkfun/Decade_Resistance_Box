@@ -1,14 +1,15 @@
-Part Name - IMA Part-123 Not a Part345 Breakout
+Decade Resistance Box - KIT-13006
 ========================================
 
-[![Decade Resistance Box](https://cdn.sparkfun.com/assets/parts/9/9/6/0/13006-04.jpg)
+[![Decade Resistance Box](https://cdn.sparkfun.com/assets/parts/9/9/6/0/13006-04.jpg) 
 KIT-13006](https://www.sparkfun.com/products/13006)
 
-This repository is for a decade resistance box kit, adjustable between 0 &ohm; and 999,990 &ohm; in 10 &ohm; steps.  [More information can be found here.](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/IMU/PS-MPU-9150A.pdf)
+This repository is for a decade resistance box kit, adjustable between 0 &ohm; and 999,990 &ohm; in 10 &ohm; steps.  [More information can be found here.](https://www.sparkfun.com/products/13006)
 
 Detailed information about building and using the decade resistance can be found it it's [hookup guide](https://learn.sparkfun.com/tutorials/decade-resistance-box-hookup-guide). 
 
-This part was created in Eagle v6.5.0.  The front panel etching/overlay was created with Inkscape 0.48.
+This part was created in Eagle v6.5.0.  
+The front panel etching/overlay was created with Inkscape 0.48.
 
 
 Repository Contents
@@ -16,6 +17,7 @@ Repository Contents
 
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 * **/case-label** - Multi-layer SVG of the front panel markings. 
+* **/tutorial-images** - the sources for the images in the hookup guide. 
 
 Product Versions
 ----------------
