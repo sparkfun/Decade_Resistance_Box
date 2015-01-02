@@ -16,7 +16,7 @@ Repository Contents
 -------------------
 
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
-* **/case-label** - Multi-layer SVG of the front panel markings. 
+* **/case-label** - The front panel markings in PDF and multi-layer SVG formats. 
 * **/tutorial-images** - the sources for the images in the hookup guide. 
 
 Product Versions
